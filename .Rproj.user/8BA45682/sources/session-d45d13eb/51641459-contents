@@ -1,0 +1,89 @@
+# Sisäänpääsytentti 2015 {#Sisaanpaasytentti2015}
+
+## Rinne- & Weber-testeistä taulukko, johon piti täyttää tulokset, jos on normaali tai toispuolinen konduktiivinen tai aistimistyylinen kuulovika
+
+Käy läpi päässäsi, millaiset tulokset saat Weberin ja Rinnen testeistä erilaisissa kuulovioissa.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Alla
+      
+Weberin ja Rinne testit ovat äänirautakokeita (käytetään C1-äänirautaa eli 256 Hz-rautaa; C5-rauta olisi 4096Hz), joita voidaan käyttää apuna, kun päätellään potilaan kuulovian tyyppiä. Tarkempaan diagnostiikkaan ja kuulovian vaikeusasteen määrittämiseen tarvitaan kuitenkin aina audiometriaa.
+
+1. Kuuloviat luokitellaan sensorineuraalisiin (aistimiskuuloviat ja neuropatiatyyppiset), konduktiivisiin (johtumiskuuloviat) ja kombinoituihin (sekatyyppisiin) vikoihin. Sensorineuraalinen kuulovika kuvaa lähinnä sisäkorvan ja kuulohermon toimintaa. Sen harvinaisena muotona voidaan erottaa sentraalinen kuulovika, jossa vika on lähinnä aivokuorella tai aivorunkotasolla.
+
+2. Sensorineuraalisessa viassa sekä ilmajohtokynnykset että luujohtokynnykset ovat samalla tasolla (esim. vanhuuden huonokuuloisuus ja useimmat perinnölliset kuuloviat). Kuulohermon neuropatiassa sisäkorva toimii normaalisti, mutta kuulohermo ei välitä ääntä normaalisti kuuloaivokuorelle. Neuropatiassa kuulokynnykset voivat vaihdella normaalista vaikean kuulovian tasolle, ja tyypillistä on kuulokynnyksiin nähden suhteettoman heikko puheentunnistuskyky.
+
+3. Konduktiivisessa viassa luujohtokynnykset ovat normaalit, mutta ilmajohtokynnykset heikentyneet vähintään 15 dB. Ääni ei pääse esteettä kulkeutumaan sisäkorvaan, joka toimii normaalisti. Konduktiivinen kuulovika ei heikennä puheen tunnistusta. Esimerkkeinä ovat mm. sekretorinen välikorvatulehdus, tiukka vaikkutulppa tai kuuloluuketjun jäykistymä (mm. otoskleroosi).
+
+4. Kombinoidussa kuuloviassa sekä luujohto- että ilmajohtokynnykset ovat heikentyneet (luujohtokynnykset ovat paremmat kuin ilmajohtokynnykset) eli kyseessä on sensorineuraalisen ja konduktiivisen vian yhdistelmä (esim. pitkälle edennyt otoskleroosi tai krooninen välikorvatulehdus ja vanhuuden huonokuuloisuus yhdessä).
+
+**Weberin testissä** C1 äänirauta kopautetaan omaa polvilumpiota vasten ja varmistetaan ääniraudan tasainen soiminen. Tämän jälkeen äänirautaa käytetään tutkittavan korvan vieressä, jotta tutkittava tietää minkä korkuista ääntä tutkitaan. Sitten painetaan äänirauta tasaisesti tutkittavan päähän keskilinjassa ja kysytään missä ääni kuuluu. _Normaalisti ääni kuuluu keskellä päätä tai molemmissa korvissa yhtä voimakkaana._ **Mikäli ääni kuuluu voimakkaampana toisessa korvassa, niin syynä voi olla tämän korvan parempi kuulo tai johtumistyyppinen kuulovika, mikä selvitetään edelleen Rinnen testillä.** Weberin testi on hyvin herkkä ja jo alle 5 dB puoliero saa aikaan äänen lateralisoitumisen.
+
+**Rinnen testissä** soiva äänirauta painetaan potilaan korvan taakse mastoidaaliluun pintaan. Tuolloin ääni välittyy luujohtoa myöten sisäkorvaan. Kun äänirauta lakkaa kuulumasta siirretään se korvan viereen, jolloin ääni kuuluu ilmajohtuvuudella. _Mikäli ilmajohto on parempi, niin testi on normaali eli positiivinen._ **Mikäli ääni kuuluu voimakkaammin korvan takaa, niin testi on negatiivinen ja viittaa korvassa olevaan johtumistyyppiseen kuulovikaan.** Rinne testi ei ole niin herkkä kuin Weberin testi ja johtumistyyppistä vikaa on noin 15-20 dB kun testi muuttuu positiivisesta negatiiviseen.
+
+
+![](images/weberrinnetulokset.png)
+![](images/weberrinnekuva.png)
+  </div>
+</div>
+
+
+## Kurkunpään anatomia anteriorinen kuva. Nimeä rakenteen 1-5 (kieliluu, kurkunkansi, kilpirusto, sormusrusto, henkitorvi)
+
+
+![](images/larynxsobottayksviis.png)
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Alla
+      
+1. Kurkunkansi; cartilatigo epiglottica
+
+2. Kieliluu; os hyoideum
+
+3. Kilpirusto; cartilatigo thyroidea
+
+4. Sormusrusto; cartilago cricoidea
+
+5. Henkitorvi; cartilagines tracheales
+
+![](images/larynxsobotta.png)
+![](images/posteriorlarynxsobotta.png)
+![](images/kurkunpäänrakenteetkirja.png)
+![](images/kurkunpäänjako.png)
+  </div>
+</div>
+
+
+## Nenän ja sivuonteloiden merkitys hengityksessä
+
+Mitkä ovat nenähengityksen tärkeimmät tehtävät? Mitä merkitystä sivuonteloilla merkitystä?
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Lämmitys, puhdistus, kostutus...
+      
+
+Nenän kautta virtaa päivittäin sisäänhengityksessä 10.000–20.000 litraa ilmaa. Nenällä ja sivuonteloilla on tärkeä merkitys hengityksessä, **hengitysilman lämmittämisessä, kostuttamisessa ja puhdistamisessa sekä hajuaistin toiminnassa.** 
+
+1. Nenän limakalvon toiminta on tärkeää myös immunologisen puolustuksen kannalta. 
+2. Lepotilassa hengitetään pääosin nenän kautta, rasituksessa suuhengityksen osuus suurenee. _Vastasyntynyt ei pysty hengittämään suun kautta ja avoin nenä on sen vuoksi elintärkeä._
+3. Nenän, erityisesti kuorikoiden rakenne, lisää sisäänhengityksen ilmavirtauksen turbulenssia tehostaen hengitysilman puhdistusta, kostutusta ja lämmitystä (nk. preparointifunktio). Esimerkiksi +20 Celsius-asteinen ilma on henkitorveen tullessaan lämmennyt +35 °C:een ja -18 Celsius-asteinen ilma + 20 °C:een. Uloshengityksen aikana 1/3 lämmöstä ja kosteudesta palautuu limakalvoille.
+
+**Nenän sivuonteloiden merkityksestä on useita teorioita.**
+
+1. Sivuontelot keventävät kallon massaa ja niiden sisältämä ilma toimii lämpöreservinä suojaten orbitaa ja etummaista kallokuoppaa kylmissä olosuhteissa.
+2. Sivuonteloilla on merkitystä etenkin lauluäänen resonoinnissa ja ylempien hengitysteiden typpioksidituotannossa ja varastoinnissa. 
+3. Ontelot ovat myös suojaava puskuri kasvovammoissa.
+  </div>
+</div>
+

@@ -1,0 +1,693 @@
+# Sisäänpääsytentti 2016 {#Sisaanpaasytentti2016}
+
+Tentti koostui väittämistä, joiden perään piti merkata oliko väittämä **oikein/väärin.** Ainakin 2017 oli sama sisäänpääsytentti ja näin oletettavasti ollut myös seuraavina vuosina. 2021 ollut ilmeisesti lisää kysymyksiä ja nämä käsitellään seuraavassa kappaleessa.
+
+## Kolmen kuuloluun nimet ovat vasara (malleus), alasin (incus) ja jalustin (stapes)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+      
+MIS VAJ (malleus, incus, stapes = vasara, alasin, jalustin)
+
+![](images/korvaanatomiaenglanti.png)
+![](images/korvaanatomiapeda.png)
+![](images/kuuloluuketju.png)
+![](images/välikorvatt.png)
+  </div>
+</div>
+
+
+## Kuuloluista vasara on kiinni soikeassa ikkunassa ja kuuloluista mediaalisimpana
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+      
+Lateraalisesta mediaaliseen: MIS VAJ (malleus, incus, stapes = vasara, alasin, jalustin). Jalustin on siis mediaalisin kuuloluu ja kiinni soikeassa ikkunassa (fenestra ovale).
+
+Jalustin siis välittää kuuloluiden liikettä soikean ikkunan kautta koklean sisälle scala vestibulin nesteeseen. Tämä aiheuttaa basilaarimembraanin aaltoiltua ja lopulta äänisignaalin synnyn. Tämä johtaa koklean stereosilioiden taipumiseen, jolloin karvasolut depolarisoituvat ja tämä johtaa stimulukseen äänihermoon. 
+
+Älä sekoita soikeaa ikkunaa pyöreään ikkunaan. Soikeasta ikkunasta posterioinferiorisesti sijaitsee ns. pyöreä ikkuna, joka mahdollistaa sen, että jalustimen aiheuttama työntö siirtyy perilymfaan (soikea ikkuna on joustava ja luo siten tilaa perilymfan liikkeelle). 
+
+Äärettömän hyvä animaatio äänen transduktiosta: https://youtu.be/PeTriGTENoc?si=_79KmpFlPrMCHy5S
+
+![](images/functionoftheinnerear.png)
+  </div>
+</div>
+
+
+## Stapediuslihaksen supistuminen jäykistää kuuloluuketjua antaen siten suojaa voimakkailta ääniltä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+      
+Kuuloluuketjuun kiinnittyy lisäksi kaksi lihasta: m. tensor tympani vasaran kaulaan ja m. stapedius jalustimen kaulaan.
+      
+Stapediuslihaksen supistuminen jäykistää kuuloluuketjua ja tilttaa anteriorista jalustinta poispäin soikeasta ikkunasta, mikä vähentää äänienergian siirtymistä sisäkorvaan antaen siten suojaa voimakkailta ääniltä. 
+
+Tensor tympani -lihaksen tehtävänä on lähinnä tukea tärykalvoa ja kuuloluuketjua mekaanisesti. Ei ole roolissa akustisessa refleksissä.
+
+![](images/välikorvalihakset.png)
+  </div>
+</div>
+
+## Stapediusrefleksin laukeamiskynnys ääneksille on normaalisti 20-30 dB
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+      
+Stapediusrefleksin (a.k.a. akustinen refleksi eli m. stapediuksen supistuminen vasteena kovalle äänelle) laukeamiskynnys ääneksille on tavallisesti **70–90 dB tasolla,** leveäkaistaiselle äänelle toistakymmentä desibeliä vähemmän.
+  </div>
+</div>
+
+## Korvatorvi (tuba Eustachii) yhdistää välikorvaontelon nenänieluun
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Korvatorvella on tärkeä merkitys välikorvaontelon eritteen poistumisessa, sekä välikorvan ja kartiolisäkkeen lokeroston ilmastoinnissa.
+
+Korvatorven välikorvanpuoleinen kolmannes on luinen ja nenänielupuoleiset kaksi kolmannesta ovat rustoisia. Korvatorven rustoiseen osaan kiinnittyvistä lihaksista tärkein on m. tensor veli palatini. Sen supistuminen avaa korvatorvea nielemisen ja haukottelun aikana.
+
+![](images/eustachiantube.png)
+![](images/eustachiantubeorifice.png)
+  </div>
+</div>
+
+## Vestibulo-okulaarinen refleksi aiheuttaa pään liikkeen kanssa yhtä suuren, samansuuntaisen silmänliikkeen
+
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Tasapainoelin-silmäheijaste, vestibulo-okulaarinen refleksi (VOR, okulovestibulaarinen refleksi) pitää pään liikkuessa katseen vakaana siten, että refleksi aiheuttaa pään liikkeen kanssa yhtä suuren, mutta vastakkaissuuntaisen silmänliikkeen. VOR on hallitseva järjestelmä nopeiden päänliikkeiden aikana.
+
+Voidaan testata mm. kalorisella kokeella (useimmiten vain kylmävesikalorisaatio eli jäävesikoe, mutta on myös lämminvesikalorisaatiotesti olemassa). Siinä potilas makaa selällään pää noin 30 astetta koholla ja korvakäytävään tiputetaan 0-asteista vettä. Samalla seurataan mahdollisen nystagmuksen ilmaantumista käyttäen Frenzelin laseja. Usein vaste tulee jo 0,2 ml:lla vettä, jolloin nähdään vastakkaisen korvan suuntaan lyövä nystagmus. Tarvittaessa annos voidaan nostaa 0,4 ml:aan, jolloin suurimmalla osalla tutkittavista nähdään nystagmus. Jos vastetta ei saada edes 20 ml:lla, niin kalorinen vaste voidaan katsoa sammuneeksi. Tasapainoelimen toiminnan tarkempi tutkimus suoritetaan erikoissairaanhoidossa.
+
+Päännykäisy- eli impulssitestillä (Head Impulse Test, HIT) mitataan myös vestibulaari-okulaarirefleksin toimintaa. Testiä voidaan käyttää esimerkiksi vestibulaarineuriitin diagnostiikassa. Testissä tutkittava istuu tai on selällään sängyssä. Tutkittavaa pyydetään kiinnittämän katseensa joko edessä olevan tutkijan nenän päähän tai seinällä olevaan pisteeseen ja pitämään katseen kohteessa samalla kuin nopeasti käännetään tutkittavan päätä sivulle 10–20 astetta. Tutkija seuraan tutkittavan silmiä. Normaalisti tutkittava pystyy pitämään katseensa paikoillaan ilman korjaavaa sakadiliikettä. Tämä kuvastaa normaalia vestibulaari-okulaarirefleksiradan toimintaa. Heikentyneessä tai puuttuvassa vasteessa silmät liikkuvat pään käännön suuntaan ja korjausliikkeellä palaavat alkuperäiseen kohteeseensa. Poikkeava vestibulaari-okulaarirefleksi on sillä puolella, minne puolelle päätä kääntäessä silmien korjaava sakadiliike ilmaantui.
+
+![](images/impulssivor.png)
+![](images/vorcows.png)
+VOR-testaukset kuuluvat aivokuolleen potilaan kriteereihin. Kun potilas ei hengitä, on koomassa ja häneltä puuttuu aivorunkoheijasteet (valorefleksi, okulovestibulaarinen refleksi, kornearefleksi, yökkäysrefleksi ja yskärefleksi), voidaan potilas todeta aivokuolleeksi. 
+
+![](images/aivorunkoheijasteet.png)
+  </div>
+</div>
+
+
+## Normaalissa kuulossa Weberin testi ei lateraalistu ja Rinnen testi on positiivinen
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+![](images/weberrinnetulokset.png)
+![](images/weberrinnekuva.png)
+  </div>
+</div>
+
+
+## Päännykäisy- eli impulssitestillä mitataan vestibulaari-okulaari –refleksin toimintaa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+      
+Tasapainoelin-silmäheijaste, vestibulo-okulaarinen refleksi (VOR, okulovestibulaarinen refleksi) pitää pään liikkuessa katseen vakaana siten, että refleksi aiheuttaa pään liikkeen kanssa yhtä suuren, mutta vastakkaissuuntaisen silmänliikkeen. VOR on hallitseva järjestelmä nopeiden päänliikkeiden aikana.
+
+Impulssitestissä tutkittava istuu tai on selällään sängyssä. Tutkittavaa pyydetään kiinnittämän katseensa joko edessä olevan tutkijan nenän päähän tai seinällä olevaan pisteeseen ja pitämään katseen kohteessa samalla kuin nopeasti käännetään tutkittavan päätä sivulle 10–20 astetta. Tutkija seuraan tutkittavan silmiä. Normaalisti tutkittava pystyy pitämään katseensa paikoillaan ilman korjaavaa sakadiliikettä. Tämä kuvastaa normaalia vestibulaari-okulaarirefleksiradan toimintaa. Heikentyneessä tai puuttuvassa vasteessa silmät liikkuvat pään käännön suuntaan ja korjausliikkeellä palaavat alkuperäiseen kohteeseensa. Poikkeava vestibulaari-okulaarirefleksi on sillä puolella, minne puolelle päätä kääntäessä silmien korjaava sakadiliike ilmaantui.
+
+Toinen VOR-testi olisi kalorisaatio (esim. kylmävesikalorisaatio, jossa korvaan laitetaan kylmää vettä ja normaalisti havaitaan vastakkaisen korvan suuntaan lyövä nystagmus).
+
+![](images/impulssivor.png)
+  </div>
+</div>
+
+
+## Ulkonenän tukirakenteesta 1/3 on luuta ja 2/3 rustoa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Ulkonenän pyramidin yläosan muodostavat kaksi nenäluuta, jotka kiinnittyvät frontaaliluuhun. Pyramidin sivuosan muodostavat yläleuanluun processus frontalikset. Luiden rajaamaa nenäaukkoa nimitetään apertura piriformikseksi. 
+
+Nenäluut kiinnittyvät rustoon ohuiden sidekudossäikeiden avulla. Ylälateraalirusto muodostaa ulkonenän rustoisen yläosan. Alaosan muodostavat symmetriset, kaaren muotoiset parilliset alaarirustot, joissa erotetaan mediaalinen ja lateraalinen osa (crus mediale ja crus laterale) ja niiden välissä nenänpäätä muovaava ns. välihaara. Crus medialet, sidekudos ja iho muodostavat nenän etuosan ns. kolumellan. Kolumellan takaa alkaa nenän väliseinä. 
+
+Nenän väliseinä on syvyyssuunnassa noin 7 cm mittainen. Nenäkäytävät avautuvat nenänieluun koaaniaukkoina.
+
+![](images/ulkonenänrakenne.png)
+  </div>
+</div>
+
+
+## Nenässä on viisi pari pieniä, nenän toimintaan vaikuttavia lihaksia
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+M. dilatator avaa sierainaukkoja. 
+
+M. levator labii superior (alaque nasi) kiinnittyy yläleuanluun processus frontalikseen ja  laajentaa sieraimia. 
+
+M. depressor septin toiminta vaikuttaa kolumellan pituuteen ja lihaksen toiminta laajentaa sierainaukkoja voimakkaassa sisäänhengityksessä. 
+
+M. nasaliksen (alar ja transverse osat) toiminta saa nenän pidentymään ja painumaan kasaan ja supistamaan sierainaukkoja. Sen vastavaikuttajalihas on m. procerus.
+
+Joissain lähteissä vielä mainitaan compressor narium minor, mutta viisi paria on mainittu oppikirjassa ja on täten oikea vastaus tentissä.  
+![](images/nasalmuscles.png)
+  </div>
+</div>
+
+
+## Aikuisella nenän väliseinä on kokonaisuudessaan rustoa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Aikuisella nenän väliseinän, septumin, etuosa on rustoa ja takaosa luuta. _Lapsella_ koko septum on rustoinen, mutta septumin takaosa luutuu viimeistään murrosiässä.
+
+Septumin luisen osan muodostavat etmoidaaliluun lamina perpendicularis ylhäällä ja vomer takana alhaalla. Septumin etuosan rusto on kiinnittynyt yläleuanluun keskiviivan premaksillaariharjanteeseen. Septumrusto ja siihen molemmilla puolilla kiinnittyneet ylälateraalirustot muodostavat yhdessä T-mallisen rakenteen.
+
+![](images/nasalseptum.png)
+  </div>
+</div>
+
+## Kummassakin nenäontelossa on lateraaliseinämään kiinnittyvät ala-, keski- ja yläkuorikko (concha)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Concha inferior, medialis ja superior. Ne muodostuvat ohuista kaarevista luurakenteista, joita limakalvo verhoaa.
+
+Alakuorikon ja sivuseinämän muodostamaa tilaa kutsutaan alakäytäväksi ja keskikäytävä on vastaavasti sivuseinämän ja keskikuorikon rajaama tila. 
+
+![](images/conchaeanterior.png)
+  </div>
+</div>
+
+## Kyyneltiehyt avautuu nenäontelon yläkäytävään
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Kyyneltiehyt avautuu alakäytävään. 
+
+![](images/lacrimalductanterior.png)
+![](images/openingofnasolacrimalduct.png)
+  </div>
+</div>
+
+
+## Johtumistyyppisessä kuuloviassa Weberin testi lateraalistuu terveeseen korvaan ja Rinnen testissä on negatiivinen sairaassa korvassa
+
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Konduktiivisessa kuuloviassa Weber lateraalistuu sairaaseen korvaan, koska konduktiivinen vika tekee sisäkorvan sensitiivisemmäksi luuvälitteiselle äänelle ja siten ääni aistitaan voimakkaampana sairaan korvan puolella. 
+
+![](images/weberrinnetulokset.png)
+![](images/weberrinnekuva.png)
+
+  </div>
+</div>
+
+
+## Poskiontelon luonnollinen aukko nenäonteloon sijaitsee keskikäytävässä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Parillisen poskiontelon (sinus maxillaris) leveys on aikuisella n. 2,5 cm ja syvyys n. 3,5 cm ja kokonaistilavuus noin 15 ml. Luonnollinen aukko nenään (ostium) sijaitsee ontelon ylämediaaliosassa ja on läpimitaltaan 2–5 mm. Nenäkäytävän puolelle ostium avautuu keskikuorikon alle ostiomeataalisen yksikön alueelle. Poskiontelosta voi olla nenään myös yksi tai useampi ylimääräinen aukko, ns. akkessorinen ostium.
+
+
+![](images/maxillarysinusostium.png)
+![](images/openingofnasolacrimalduct.png)
+  </div>
+</div>
+
+
+## Nenän ahtain kohta, ns. valvula-alue sijaitsee 1,5-2 cm sierainaukosta
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Nenähengityksen kannalta tärkeä alue sijaitsee nenän etuosassa n. 1,5–2 cm sierainaukosta. Tämän kolmionmuotoisen nenän ahtaimman kohdan, ns. valvula-alueen, rajaavat septum, ylälateraaliruston alareuna, alakuorikon etureuna ja nenäkäytävän pohja. Valvula-alueen ahtautuminen (esim. valvulainsuffisienssissa, jossa on sieraimen lateraaliseinämän rustojen vajaatoimintaa, jonka seurauksena valvula-alue painuu sisäänhengityksen aiheuttaman alipaineen seurauksena sisäänpäin (Bernoullin laki)) heikentää nenän ilmavirtausta.
+
+![](images/valvearea.png)
+  </div>
+</div>
+
+
+## Aikuisilla sivuonteloiden koossa voi olla huomattaviakin yksilökohtaisia eroja
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Onteloiden kasvunopeus ja lopullinen koko on yksilöllistä. Sivuontelot saavuttavat lopullisen kokonsa 15–18 vuoden ikään mennessä.
+  </div>
+</div>
+
+
+## Parilliset otsaontelot (sinus frontalis) alkavat kasvaa vasta aikuisiällä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Alkavat kasvaa vasta **kouluiässä.** Niiden koko vaihtelee suuresti ja ne voivat myös puuttua tois- tai molemminpuolisesti.
+  </div>
+</div>
+
+
+## Nenänielun etuseinämän keskeinen rakenne on kaarenmuotoinen torus tubarius, jonka keskellä on korvatorven, tuba auditivan aukko
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Kyseessä on nenänielun sivuseinämän keskeinen rakenne. Se on nasofarynxin mukoosapinnan kohouma, joka muodostuu korvatorven rustoisen osan tyvestä. Sen tehtävänä on suojata korvatorven aukkoa.
+
+![](images/torustubariuskenhub.png)
+![](images/torustubariustrio.png)
+  </div>
+</div>
+
+
+## M. tensor ja levator veli palatinin supistuminen niellessä tai haukotellessa avaa korvatorven suuta ja silloin ilmaa pääsee välikorvaan
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+![](images/musclesoftheeustachiantube.png)
+![](images/eustachiantubemusclesfunction.png)
+  </div>
+</div>
+
+
+## Infraorbitaalihermo kulkee silmäkuopan luisessa pohjassa ja tulee luukanavastaan ulos silmäkuopan alareunassa.
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Keskikasvon alueen tuntohermo on n. infraorbitalis, joka on n. maxillariksen haara.
+
+Sijaintinsa vuoksi infraorbitaalihermo on alttiina vaurioitumiselle esimerkiksi kasvovammojen ja leikkausten yhteydessä.
+
+Silmäkuopan luinen pohja on samalla poskiontelon katto. 
+
+![](images/infraorbitalnervekenhub.png)
+![](images/facialnervessideprofile.png)
+  </div>
+</div>
+
+
+## Parasympaattinen hermoärsytys aiheuttaa vasokonstriktion ja nenän limakalvon supistumisen
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+      
+Nenäontelossa on hyvin runsas parasympaattisten ja sympaattisten hermosäikeiden verkosto.
+
+_Sympaattinen_ hermoärsytys aiheuttaa vasokonstriktion ja nenän limakalvon supistumisen. _Parasympaattinen_ aktivaatio lisää nenän limakalvon eritystoimintaa ja laajentaa verisuonia. 
+  </div>
+</div>
+
+
+## Nenän sivuonteloiden runsas verenkierto tulee sekä a. carotis internasta että a. carotis externasta
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+A. carotis internasta tulevan a. ophthalmican haarat a.ethmoidalis anterior ja posterior huolehtivat nenän ylä- ja etuosien verenkierrosta. 
+
+Keskikuorikon takapään kohdalla sijaitsevan foramen sphenopalatinumin kautta nenään tuleva a.sphenoplatina suonittaa suunnilleen keskikuorikkotason alapuolelta nenänkäytävien ala- ja takaosaa. Tämä valtimo on merkityksellinen vaikeiden nenäverenvuotojen hoidon kannalta. 
+
+Nenän valtimoiden välillä on runsaasti anastomooseja. Nenän väliseinän etuosassa on tiivis verisuoniverkosto ns. locus Kiesselbachin alueella. 
+
+Laskimoiden kulku seuraa pääosin valtimoita. Laskimot ovat läpättömiä, ja osa niistä laskee sinus cavernosukseen. Siten nenän ja sivuonteloiden alueen infektio voi levitä joskus kallon sisälle.
+
+![](images/nenänverenkiertokirja.png)
+![](images/nenänverenkiertocarotikset.png)
+  </div>
+</div>
+
+
+## Nenän limakalvon pinta on värekarvallista lieriöepiteeliä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Samoin sivuonteloiden limakalvo. 
+
+![](images/mukoosapinta.png)
+![](images/nenämukoosahistologia.png)
+  </div>
+</div>
+
+
+## Nenäkäytävien pohjalla sijaitsevan hajuepiteelin pinta-ala on noin 5 cm2
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Hajuepiteelin pinta-ala kylläkin on n. 5cm2, mutta se sijaitsee nenäkäytävien katossa lamina cribrosan ja keski- sekä yläkuorikon yläosan alueella. 
+
+Hajuepiteelissä on olfaktorisia sensorineuroneita. Hajumolekyylit liukenevat mukoosapinnan eritteisiin ja sitoutuvat reseptoreihin, mikä johtaa hajusignaalin syntymiseen. 
+
+![](images/olfactoryepithelium.png)
+  </div>
+</div>
+
+
+## Vastasyntynyt ei pysty hengittämään suun kautta ja avoin nenä on sen vuoksi elintärkeä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Tämä on jokseenkin harhaanjohtava kommentti kirjassa. Vastasyntyneet ovat ns. preferentiaalisia nenähengittäjiä eli he hengittävät luonnollisesti nenän kautta ja suun kautta hengitetään vain tietyissä tilanteissa (esim. itkiessä tai nenän tukkeutuessa). Tietystihän vastasyntyneetkin pystyvät täydellisessä nenäokkluusiossa hengittämään suun kautta, mutta tämä on vain merkittävästi vaikeampaa ja kuluttavampaa vastasyntyneille kuin vanhemmille lapsille. Yleensä vauva itkee enemmän nenän tukkeutuessa ja itkiessään vauva hengittää suun kautta. Jos pienet vauvat eivät pystyisi tarpeen tullessa hengittää suun kautta, niin jokainen ylähengitystieinfektion saanut vauva, jonka nenä tukkeutuu, jouduttaisiin intuboimaan. 
+
+Vastasyntyneet kuitenkin välttävät suuhengittämistä, koska he alitajunnassaan tietävät sen johtavan leuan alikehittymiseen. 
+  </div>
+</div>
+
+
+## Aamulla herätessä ilmenevä nenäntukkoisuus on aina merkki sairaudesta
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Aamulla herätessä ilmenevä nenäntukkoisuus on fysiologista ja helpottuu ylösnoustua. Tämä johtuu siitä, että makuuasennossa limakalvoturvotus lisääntyy; kyljellä nukuttaessa enemmän alempana olevassa nenäontelossa.  
+  </div>
+</div>
+
+
+## Nenän fysiologiaan kuuluu noin 80 % ihmisistä nenäsykli, jossa nenäonteloiden limakalvoturpeus vaihtelee puolelta toiselle parin tunnin välein
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Myös nenän mukosiliaaritoiminnassa havaitaan nenäsyklin aiheuttama puoliero.  Hypotalamuksen säätelemänän autonominen hermosto ohjaa nenäontelon verisuonien konstriktiota ja dilataatiota siten, että välillä toinen puoli nenäontelosta on enemmän tukossa ja taas välillä se on enemmän auki. **Ajatellaan, että tällä on merkitystä limakalvon toipumisen kannalta.**
+
+Nenäsykli näkyy myös nenän virtausvastuksen voimakkuuden vaihteluna puolelta toiselle. Nenän kokonaisvirtausvastus säilyy kuitenkin tasaisena. 
+
+![](images/nenäsyklivirtaukset.png)
+  </div>
+</div>
+
+
+## Välikorvan, korvatorven, nenän ja sen sivuonteloiden sekä alempien hengitysteiden limakalvon epiteelikerros koostuu pääasiassa värekarvallisista lieriösoluista
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Kussakin värekarvasolussa on noin 200 värekarvaa, siliaa (cilia). Värekarvasolujen päällä on limakerros.
+
+![](images/mukoosapinta.png)
+  </div>
+</div>
+
+
+## Hengitysteiden limakalvon mukosiliaari- eli limankuljetustoiminnan häiriö on aina synnynnäinen
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Useimmiten taustalla on hankittu syy, esim. krooninen riniitti/rinosinuiitta, tulehdukselliset alahengitystiesairaudet yms. Nämä hidastavat mukosiliaarista kuljetusta (hengitysteiden värekarvasolujen värekarvojen liikehdintää, joka kuljettaa haitallisia aineita pois hengitysteistä). Hyvä esimerkki tästä on viruspneumonia, joka altistaa bakteeripneumonialle osin siitä johtuen, että viruspneumonia vaurioittaa mukosiliaarista eskalaattoria ja täten bakteereita pystyy tarttua ja kertyä keuhkon mukoosapinnoille helpommin. 
+
+Synnynnäiset syyt ovat harvinaisia, ja niistä tavallisin on liikkumattomien värekarvojen oireyhtymä (immotile cilia syndrome tai primary ciliary dyskinesia). Tämän yleisyys on noin 1:20 000. Hengitystieoireet alkavat pian syntymän jälkeen. Iän myötä kehittyy usein täydellinen Kartagenerin (Siewertin) oireyhtymä, jossa situs inversukseen (sisäelimet ovat järjestyneet peilikuvana normaaliin nähden) liittyvät krooniset poskiontelotulehdukset ja bronkiektasiatauti. Vaikeissa tulehduksellisissa hengitystiesairauksissa synnynnäinen värekarvojen toimintahäiriö tulisi muistaa. Värekarvojen poikkileikkauksissa havaitaan täydellinen dyneinihaarakkeiden puutos. Miehet voivat olla infertiilejä, koska myös siittiöiden liike on huomattavasti alentunut.
+
+![](images/mucociliaryescalator.png)
+  </div>
+</div>
+
+
+## Hajuaistin häiriö voi joskus olla Alzheimerin taudin ensimmäisiä oireita
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Hajuaistin häiriöt voivat liittyä ylähengitysteiden sairauksiin, kuten krooniseen polypoottiseen rinosinuiittiin tai hermostoperäisiin häiriöihin. 
+
+Alzheimerin tauti voi vaurioittaa mm. bulbus olfactoriusta ja siten häiritä hajuaistia. 
+
+Alzheimerin taudin lisäksi mm. Parkinsonin taudissa, MS-taudissa ja Lewyn kappale -dementiassa voi esiintyä hajuaistin häiriöitä. 
+  </div>
+</div>
+
+## Leuan- ja kielenalussylkirauhasten tiehyet avautuvat posken limakalvolle
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Suuria sylkirauhasia on kolme paria: leuanalussylkirauhaset, kielenalussylkirauhaset ja parotisrauhaset. Pieniä sylkirauhasia on kaikkialla suun limakalvoilla. 
+
+Avautuvat suupojan etuosaan. Korva-sylkirauhanen (glandula parotis, parotisrauhanen) taas avautuu posken limakalvolle yläposkihampaiden kohdalle.  
+
+![](images/sylkirauhaset.png)
+  </div>
+</div>
+
+## Suun limakalvo on kerrostunutta lieriöepiteeliä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+Suun limakalvo on kerrostunutta _levyepiteeliä._  
+
+Se sisältää satoja pieniä limakalvonalaisia sylkirauhasia. Limakalvossa on herkkä kipu-, kosketus- ja lämpötunto. Leukaluiden alveoliharjanteiden ja kovan suulaen limakalvo on kiinnittynyt tiukasti alustaansa poikittaisjuosteisen mukoperiostin avulla. Poskien ja suunpohjan limakalvo kiinnittyy löyhästi alla oleviin kudoksiin.
+
+![](images/oralmucosa.png)
+  </div>
+</div>
+
+## Vallecula epiglottidis sijaitsee sijaitsee kielen tyven ja kurkunkannen välissä
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Vallecula epiglottidis/epiglottica tarkoittaa parillisia kuoppia, jotka toimivat "syljen ansana", jossa sylki ja ruoka pysähtyvät hetkellisesti, estäen nielemisrefleksiä käynnistymästä ennen aikojaan.
+
+On myös mahdollinen tunnistettavissa oleva maamerkki intubaatiossa. 
+
+![](images/vallecula.png)
+![](images/valleculavisual.png)
+  </div>
+</div>
+
+## Nielun katossa sijaitsee kitarisa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Kitarisa (adenoid) sijaitsee nenän takana nenänielussa. Ovat osa immuunipuolustusta ja alueen immuunisolut nappaavat ja tunnistavat patogeeneja, jotka pääsevät suun tai nenän kautta nieluun. 
+
+Nielurisat (tonsils) taas sijaitsevat kielen molemmin puolin nielun sivuseinissä ja näkyvät suoraan suuhun katsottaessa. 
+
+![](images/kitarisalateral.png)
+![](images/nasopharynx.png)
+![](images/nielurisa.png)
+  </div>
+</div>
+
+
+## Kurkunpään tehtävänä on suojata hengitysteitä vieraalta materiaalilta sekä mahdollistaa äänen tuottaminen
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Kurkunpää = larynx 
+
+Epiglottis (kurkunkansi) suojaa henkitorven aukon niellessä, mikä suojaa hengitysteitä ja estää aspiraatiota. 
+
+Larynxissa on myös äänihuulet, jotka tuottavat ääntä fonaatiossa.
+
+![](images/larynxsagittal.png)
+  </div>
+</div>
+
+## Sormusruston (rengasrusto, cartilago cricoidea) ja kilpiruston (cartilago thyroidea) etuosien välissä sijaitsee ligamentum cricothyroideum
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Tänä lihamentti estää näitä rustoja liikkumasta liian kauas toisistaan. Se leikataan hätäkrikotyreotomiassa, jos on ylähengitysteiden obstruktio ja ilmatien avaaminen ei ole muuten onnistunut. 
+
+![](images/ligcricothyroideumkenhub.png)
+![](images/krikotyreoidektomialigamentti.png)
+
+  </div>
+</div>
+
+## Henkitorvi on kapeimmillaan sormusruston kohdalla
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+
+Tällä on merkitystä vierasesineiden tarttumisen ja hengitysteiden ahtaumien kannalta.
+
+![](images/henkitorvikapein.png)
+  </div>
+</div>
+
+## Kurkunpäätä hermottavan nervus vaguksen haara nervus recurrens kiertää oikealla aortankaaren ja palaa kurkunpäähän
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V
+
+N. recurrens kulkee molemmin puolin kaulavaltimon rungon vieressä ja kiertää _oikealta a. subclavian_ alta kurkunpäähän. _Vasemmalla puolella_ n. recurrens kiertää aortankaaren. 
+
+![](images/recurrenscourse.png)
+  </div>
+</div>
