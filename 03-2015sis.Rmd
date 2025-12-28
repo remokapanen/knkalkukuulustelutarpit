@@ -32,8 +32,7 @@ Weberin ja Rinne testit ovat äänirautakokeita (käytetään C1-äänirautaa el
 </div>
 
 
-## Kurkunpään anatomia anteriorinen kuva. Nimeä rakenteen 1-5 (kieliluu, kurkunkansi, kilpirusto, sormusrusto, henkitorvi)
-
+## Kurkunpään anatomia anteriorinen kuva. Nimeä rakenteet 1-5 
 
 ![](images/larynxsobottayksviis.png)
 <div class="solution">
@@ -63,7 +62,7 @@ Weberin ja Rinne testit ovat äänirautakokeita (käytetään C1-äänirautaa el
 
 ## Nenän ja sivuonteloiden merkitys hengityksessä
 
-Mitkä ovat nenähengityksen tärkeimmät tehtävät? Mitä merkitystä sivuonteloilla merkitystä?
+Mitkä ovat nenähengityksen tärkeimmät tehtävät? Mitä merkitystä sivuonteloilla on?
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">

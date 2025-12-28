@@ -62,7 +62,7 @@ Tensor tympani -lihaksen tehtävänä on lähinnä tukea tärykalvoa ja kuuloluu
   </div>
 </div>
 
-## Stapediusrefleksin laukeamiskynnys ääneksille on normaalisti 20-30 dB
+## Stapediusrefleksin laukeamiskynnys äänille on normaalisti 20-30 dB
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -408,7 +408,7 @@ _Sympaattinen_ hermoärsytys aiheuttaa vasokonstriktion ja nenän limakalvon sup
 
 A. carotis internasta tulevan a. ophthalmican haarat a.ethmoidalis anterior ja posterior huolehtivat nenän ylä- ja etuosien verenkierrosta. 
 
-Keskikuorikon takapään kohdalla sijaitsevan foramen sphenopalatinumin kautta nenään tuleva a.sphenoplatina suonittaa suunnilleen keskikuorikkotason alapuolelta nenänkäytävien ala- ja takaosaa. Tämä valtimo on merkityksellinen vaikeiden nenäverenvuotojen hoidon kannalta. 
+Keskikuorikon takapään kohdalla sijaitsevan foramen sphenopalatinumin kautta nenään tuleva a.sphenopalatina suonittaa suunnilleen keskikuorikkotason alapuolelta nenänkäytävien ala- ja takaosaa. Tämä valtimo on merkityksellinen vaikeiden nenäverenvuotojen hoidon kannalta. 
 
 Nenän valtimoiden välillä on runsaasti anastomooseja. Nenän väliseinän etuosassa on tiivis verisuoniverkosto ns. locus Kiesselbachin alueella. 
 
@@ -494,7 +494,7 @@ Aamulla herätessä ilmenevä nenäntukkoisuus on fysiologista ja helpottuu ylö
   <div class="solution-content">
       O
 
-Myös nenän mukosiliaaritoiminnassa havaitaan nenäsyklin aiheuttama puoliero.  Hypotalamuksen säätelemänän autonominen hermosto ohjaa nenäontelon verisuonien konstriktiota ja dilataatiota siten, että välillä toinen puoli nenäontelosta on enemmän tukossa ja taas välillä se on enemmän auki. **Ajatellaan, että tällä on merkitystä limakalvon toipumisen kannalta.**
+Myös nenän mukosiliaaritoiminnassa havaitaan nenäsyklin aiheuttama puoliero. Hypotalamuksen säätelemänä autonominen hermosto ohjaa nenäontelon verisuonien konstriktiota ja dilataatiota siten, että välillä toinen puoli nenäontelosta on enemmän tukossa ja taas välillä se on enemmän auki. **Ajatellaan, että tällä on merkitystä limakalvon toipumisen kannalta.**
 
 Nenäsykli näkyy myös nenän virtausvastuksen voimakkuuden vaihteluna puolelta toiselle. Nenän kokonaisvirtausvastus säilyy kuitenkin tasaisena. 
 
@@ -565,7 +565,7 @@ Alzheimerin taudin lisäksi mm. Parkinsonin taudissa, MS-taudissa ja Lewyn kappa
 
 Suuria sylkirauhasia on kolme paria: leuanalussylkirauhaset, kielenalussylkirauhaset ja parotisrauhaset. Pieniä sylkirauhasia on kaikkialla suun limakalvoilla. 
 
-Avautuvat suupojan etuosaan. Korva-sylkirauhanen (glandula parotis, parotisrauhanen) taas avautuu posken limakalvolle yläposkihampaiden kohdalle.  
+Avautuvat suupohjan etuosaan. Korva-sylkirauhanen (glandula parotis, parotisrauhanen) taas avautuu posken limakalvolle yläposkihampaiden kohdalle.  
 
 ![](images/sylkirauhaset.png)
   </div>
@@ -654,7 +654,7 @@ Larynxissa on myös äänihuulet, jotka tuottavat ääntä fonaatiossa.
   <div class="solution-content">
       O
 
-Tänä lihamentti estää näitä rustoja liikkumasta liian kauas toisistaan. Se leikataan hätäkrikotyreotomiassa, jos on ylähengitysteiden obstruktio ja ilmatien avaaminen ei ole muuten onnistunut. 
+Tänä ligamentti estää näitä rustoja liikkumasta liian kauas toisistaan. Se leikataan hätäkrikotyreotomiassa, jos on ylähengitysteiden obstruktio ja ilmatien avaaminen ei ole muuten onnistunut. 
 
 ![](images/ligcricothyroideumkenhub.png)
 ![](images/krikotyreoidektomialigamentti.png)

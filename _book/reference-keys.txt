@@ -3,7 +3,7 @@ Sisaanpaasytentti2016
 kolmen-kuuloluun-nimet-ovat-vasara-malleus-alasin-incus-ja-jalustin-stapes
 kuuloluista-vasara-on-kiinni-soikeassa-ikkunassa-ja-kuuloluista-mediaalisimpana
 stapediuslihaksen-supistuminen-jäykistää-kuuloluuketjua-antaen-siten-suojaa-voimakkailta-ääniltä
-stapediusrefleksin-laukeamiskynnys-ääneksille-on-normaalisti-20-30-db
+stapediusrefleksin-laukeamiskynnys-äänille-on-normaalisti-20-30-db
 korvatorvi-tuba-eustachii-yhdistää-välikorvaontelon-nenänieluun
 vestibulo-okulaarinen-refleksi-aiheuttaa-pään-liikkeen-kanssa-yhtä-suuren-samansuuntaisen-silmänliikkeen
 normaalissa-kuulossa-weberin-testi-ei-lateraalistu-ja-rinnen-testi-on-positiivinen
@@ -40,8 +40,8 @@ sormusruston-rengasrusto-cartilago-cricoidea-ja-kilpiruston-cartilago-thyroidea-
 henkitorvi-on-kapeimmillaan-sormusruston-kohdalla
 kurkunpäätä-hermottavan-nervus-vaguksen-haara-nervus-recurrens-kiertää-oikealla-aortankaaren-ja-palaa-kurkunpäähän
 Sisaanpaasytentti2021
-kielen-tyven-ja-kurkunpään-yhtymiskohta-fossa-morgagni
-ilmajohtomittauksessa-125-8000-hertziä
+kielen-tyven-ja-kurkunpään-yhtymiskohta-on-fossa-morgagni
+ilmajohtomittauksessa-tutkitaan-kuulokynnykset-välillä-125-8000-hertziä
 vestibulaarisessa-elimessä-aistitaan-pään-kiertoliikettä-kaarikäytävissä
 keuhkosyöpä-voi-aiheuttaa-äänihuulihalvauksen
 otsaontelot-alkavat-kehittyä-vasta-kouluiässä
@@ -50,9 +50,9 @@ korvatorvi-yhdistää-välikorvan-ja-mastoidaalilokeroston
 meluvammassa-kuulokäyrässä-todetaan-aluksi-kuoppa-4--6-khzn-taajuudella
 puheen-ymmärtäminen-hälyssä-on-tyypillisesti-heikentynyttä
 joskus-kuulon-alenemaan-liittyy-korvien-soimista-joka-voi-olla-subjektiivisesti-haittaavampaa-kuin-pieni-kuulonalenema
-lasten-yleisimpiä-infektioita-on-akuutti-korvakäytävätulehdus-väärin-välikorvatulehdus
-meluhaitassa-ensimmäisenä-yleensä-alenee-matalat-äänet-väärin-korkeat-äänet-ensin
-ääniraurakokeet-on-parempia-kuulon-tutkimiseen-kuin-audiometria
+lasten-yleisimpiä-infektioita-on-akuutti-korvakäytävätulehdus
+meluhaitassa-ensimmäisenä-yleensä-alenee-matalat-äänet
+äänirautakokeet-on-parempia-kuulon-tutkimiseen-kuin-audiometria
 seruminaali--ja-talirauhaset-sijaitsevat-luisessa-korvakäytävässä
 n.-facialis-on-kasvojen-tuntohermo
 n.-facialis-hermo-haarautuu-korvasylkirauhasten-sisällä
@@ -68,5 +68,5 @@ kuvassa-koronaalinen-leike-epiglottiksesta.-nimeä-alueet-1-3-ja-rakenteet-4-8.
 kuvassa-suuontelon-rakenteet-edestäpäin-katsottuna.-nimeä-rakenteet.
 Sisaanpaasytentti2015
 rinne--weber-testeistä-taulukko-johon-piti-täyttää-tulokset-jos-on-normaali-tai-toispuolinen-konduktiivinen-tai-aistimistyylinen-kuulovika
-kurkunpään-anatomia-anteriorinen-kuva.-nimeä-rakenteen-1-5-kieliluu-kurkunkansi-kilpirusto-sormusrusto-henkitorvi
+kurkunpään-anatomia-anteriorinen-kuva.-nimeä-rakenteet-1-5
 nenän-ja-sivuonteloiden-merkitys-hengityksessä

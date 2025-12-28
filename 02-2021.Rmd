@@ -2,7 +2,7 @@
 
 2016-tärpit olleet ilmeisesti käytössä, mutta niiden lisäksi myös uusia kysymyksiä jonkin verran. Tässä nyt vain uudet. Periaate on sama kuin aikaisemmissa eli vastaa, onko väittämä **oikein vai väärin.** Lopussa on kylläkin muutama poikkeuksellinen kysymys, joissa vaaditaan ihan sanallista vastausta eikä vain O/V. Lopussa myös muutamia kuvantunnistustehtäviä. 
 
-## Kielen tyven ja kurkunpään yhtymiskohta fossa morgagni 
+## Kielen tyven ja kurkunpään yhtymiskohta on fossa morgagni 
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -17,7 +17,7 @@ Fossa morgagni (ventriculus laryngis) tarkoittaa ääni- ja taskuhuulten väliin
   </div>
 </div>
 
-## Ilmajohtomittauksessa 125-8000 hertziä 
+## Ilmajohtomittauksessa tutkitaan kuulokynnykset välillä 125-8000 hertziä 
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -182,7 +182,7 @@ Tavallisimmin tinnitus liittyy sensorineuraaliseen kuulovikaan. Silloin korva tu
 </div>
 
 
-## Lasten yleisimpiä infektioita on akuutti korvakäytävätulehdus väärin, välikorvatulehdus
+## Lasten yleisimpiä infektioita on akuutti korvakäytävätulehdus 
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -198,7 +198,7 @@ Tavallisimmin tinnitus liittyy sensorineuraaliseen kuulovikaan. Silloin korva tu
 </div>
 
 
-## Meluhaitassa ensimmäisenä yleensä alenee matalat äänet väärin, korkeat äänet ensin
+## Meluhaitassa ensimmäisenä yleensä alenee matalat äänet
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -212,7 +212,7 @@ Korkeat äänet alenevat ensin. Meluvammassa kuulo heikkenee altistavan äänen 
 </div>
 
 
-## Ääniraurakokeet on parempia kuulon tutkimiseen kuin audiometria
+## Äänirautakokeet on parempia kuulon tutkimiseen kuin audiometria
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
