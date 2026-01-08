@@ -266,7 +266,7 @@ V3 = n. mandibularis -> leukaan ja alahuuleen
 </div>
 
 
-## N. facialis hermo haarautuu korvasylkirauhasten sisällä 
+## Facialis-hermo haarautuu korvasylkirauhasten sisällä 
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">

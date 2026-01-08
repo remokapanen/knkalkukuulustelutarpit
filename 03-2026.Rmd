@@ -1,0 +1,63 @@
+# 2026 
+
+Kysymyspankki käytännössä muuttumaton vuosista 2016 ja 2021, mutta sekana voi olla yksittäisiä uusia kysymyksiä, jotka on alle listattu. Joitakin aikaisempia kysymyksiä löytyy myös päinvastaisessa asetelmassa kuin ennen, mutta ne tulisi olla helppoja huomata. 
+
+## Taskuhuulet osallistuvat äänentuotantoon
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      V/O
+      
+Taskuhuulilla on iso merkitys kurkunpään sulkemisessa, mutta ei normaalisti äänentuotossa. Ne kuitenkin voivat osallistua epänormaaliin fonaatioon tuottamalla karkeampia ja murisevia ääniä -> kysymys on hieman huonosti sanoitettu. 
+  </div>
+</div>
+
+## Pysyviä hampaita on yleensä 32
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+      
+![](images/hampaat.png)
+  </div>
+</div>
+
+## Nielu jaetaan kolmeen anatomiseen alueeseen 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      O
+      
+Nielu jaetaan nenänieluun (nasopharynx), suunieluun (oropharynx) ja alanieluun (hypopharynx). Nielu (pharynx) ulottuu kallonpohjasta rengasrustotasoon.
+
+![](images/nielu.png)
+  </div>
+</div>
+
+## Taas tärykalvon rakenteiden tunnistamista, tällä kertaa vasemmasta korvasta 
+
+![](images/tärykalvo26.png)
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      Alla
+
+1 = Vasaran varsi 
+2 = Umbo 
+3 = Valoheijaste
+
+![](images/tärykalvokaavamaisesti.png)
+  </div>
+</div>

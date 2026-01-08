@@ -1,4 +1,5 @@
 about
+tenttirakenne
 Sisaanpaasytentti2016
 kolmen-kuuloluun-nimet-ovat-vasara-malleus-alasin-incus-ja-jalustin-stapes
 kuuloluista-vasara-on-kiinni-soikeassa-ikkunassa-ja-kuuloluista-mediaalisimpana
@@ -55,7 +56,7 @@ meluhaitassa-ensimmäisenä-yleensä-alenee-matalat-äänet
 äänirautakokeet-on-parempia-kuulon-tutkimiseen-kuin-audiometria
 seruminaali--ja-talirauhaset-sijaitsevat-luisessa-korvakäytävässä
 n.-facialis-on-kasvojen-tuntohermo
-n.-facialis-hermo-haarautuu-korvasylkirauhasten-sisällä
+facialis-hermo-haarautuu-korvasylkirauhasten-sisällä
 immotile-cilia-altistaa-poskiontelotulehduksille
 anosmia-tarkoittaa-hajujen-yliherkkää-aistimista
 hajuaistin-häviäminen-vanhuudessa-normaali-ilmiö
@@ -66,6 +67,11 @@ kuvassa-oikea-tärykalvo.-nimeä-rakenteet.
 kuvassa-on-cortin-elin.-tunnista-rakenteet.
 kuvassa-koronaalinen-leike-epiglottiksesta.-nimeä-alueet-1-3-ja-rakenteet-4-8.
 kuvassa-suuontelon-rakenteet-edestäpäin-katsottuna.-nimeä-rakenteet.
+section
+taskuhuulet-osallistuvat-äänentuotantoon
+pysyviä-hampaita-on-yleensä-32
+nielu-jaetaan-kolmeen-anatomiseen-alueeseen
+taas-tärykalvon-rakenteiden-tunnistamista-tällä-kertaa-vasemmasta-korvasta
 Sisaanpaasytentti2015
 rinne--weber-testeistä-taulukko-johon-piti-täyttää-tulokset-jos-on-normaali-tai-toispuolinen-konduktiivinen-tai-aistimistyylinen-kuulovika
 kurkunpään-anatomia-anteriorinen-kuva.-nimeä-rakenteet-1-5

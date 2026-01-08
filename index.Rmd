@@ -14,8 +14,11 @@ github-repo: rstudio/bookdown-demo
 
 # About
 
-Alkukuulustelut ovat pitkään olleet samanlaisia: oikein/väärin kysymyksiä ja aukkotäydennyksiä esim. kuvista. Alkukuulustelua saa yrittää 3 kertaa. 
-
 Tässä kokoelmassa on wikiin kerätyt alkukuulustelukysymykset ja vastauksen yhteydessä aina aiheen ympäriltä kirjoitettua. 
 
+## Tenttirakenne 
 
+Alkukuulustelut ovat pitkään olleet samanlaisia: oikein/väärin kysymyksiä ja aukkotäydennyksiä esim. kuvista. Läpipääsyraja on 75%. Alkukuulustelua saa yrittää 3 kertaa. 
+
+- 2026 kuulustelussa aluksi on 30 O/V-kysymystä, jonka jälkeen 10 aukkotäydennystä kuvista. 
+- Aukkotäydennyksissä on jokin kuva (esim. tärykalvosta oikea kuva tai sisäkorvasta piirroskuva), josta pyydetään tunnistamaan 1-3 rakennetta. 
