@@ -9,9 +9,9 @@ Kysymyspankki käytännössä muuttumaton vuosista 2016 ja 2021, mutta sekana vo
     Vastaus
   </button>
   <div class="solution-content">
-      V/O
+      O?
       
-Taskuhuulilla on iso merkitys kurkunpään sulkemisessa, mutta ei normaalisti äänentuotossa. Ne kuitenkin voivat osallistua epänormaaliin fonaatioon tuottamalla karkeampia ja murisevia ääniä -> kysymys on hieman huonosti sanoitettu. 
+Taskuhuulilla on iso merkitys kurkunpään sulkemisessa, mutta ei normaalissa tilanteessa erityisesti äänentuotossa. Ne kuitenkin voivat osallistua epänormaaliin fonaatioon (esim. jos äänihuulia poistettu) tuottamalla karkeampia ja murisevia ääniä. 
   </div>
 </div>
 
