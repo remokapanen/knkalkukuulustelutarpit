@@ -1,5 +1,6 @@
 about
 tenttirakenne
+lopputentti
 Sisaanpaasytentti2016
 kolmen-kuuloluun-nimet-ovat-vasara-malleus-alasin-incus-ja-jalustin-stapes
 kuuloluista-vasara-on-kiinni-soikeassa-ikkunassa-ja-kuuloluista-mediaalisimpana

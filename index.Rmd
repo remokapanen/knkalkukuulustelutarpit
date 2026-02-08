@@ -22,3 +22,7 @@ Alkukuulustelut ovat pitkään olleet samanlaisia: oikein/väärin kysymyksiä j
 
 - 2026 kuulustelussa aluksi on 30 O/V-kysymystä, jonka jälkeen 10 aukkotäydennystä kuvista. 
 - Aukkotäydennyksissä on jokin kuva (esim. tärykalvosta oikea kuva tai sisäkorvasta piirroskuva), josta pyydetään tunnistamaan 1-3 rakennetta. 
+
+## Lopputentti 
+
+Lopputentin tärpit löytyvät omasta paketistaan: https://knktarpit.netlify.app/
